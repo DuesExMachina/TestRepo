@@ -2,5 +2,5 @@
 
 void main()
 {
-  cout<<"You are currently using the master branch":
+  cout<<"You are currently using the branch2":
 }
